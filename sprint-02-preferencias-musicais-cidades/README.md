@@ -1,4 +1,4 @@
-# Sprint 2 — Teste de Hipótese: Preferências Musicais por Cidade
+# Teste de Hipótese: Preferências Musicais por Cidade
 
 Neste projeto, realizamos uma análise baseada em dados de um serviço de streaming para verificar se a atividade musical dos usuários varia conforme o dia da semana e a cidade. O foco foi comparar os padrões de escuta entre as cidades fictícias Springfield e Shelbyville.
 
@@ -24,4 +24,5 @@ A hipótese foi investigada com base em três declarações específicas testada
 
 **Status:** ✅ Concluído  
 **Ferramentas:** Python • Jupyter Notebook • Pandas
+
 
